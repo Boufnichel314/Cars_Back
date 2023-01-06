@@ -1,8 +1,8 @@
-namespace Cars_Back
+namespace Back1
 {
     public class WeatherForecast
     {
-        public DateTime Date { get; set; }
+        public DateOnly Date { get; set; }
 
         public int TemperatureC { get; set; }
 
